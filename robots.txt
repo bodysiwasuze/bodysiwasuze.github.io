@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodysiwasuze.github.io/sitemap.xml
